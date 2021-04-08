@@ -1,3 +1,8 @@
+# Back to glory - Manchester United
+Manchester united is among the top football teams in the world. A major part of their success was defined by their manager Sir Alex Ferguson over the years 1986-2013. 
+However, Manchester United took a heavy blow after he retired in 2013. The club with the most number of premier league titles has failed to become champions since. Manchester United was managed by top prolific managers including Jose Mourinho, Louis Van Gaal, David Moyes and the current manager Ole Gunnar Solskjaer post Ferguson era. 
+With this project, I intend to study how the team fared under each of the different managers in a story format.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
