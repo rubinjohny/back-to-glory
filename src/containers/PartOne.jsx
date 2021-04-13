@@ -12,7 +12,7 @@ export const PartOne = props => {
 
     return(
         <div style={{margin:30}}>
-            <h2>Part 1 - Ferguson Era</h2>
+            <h2>Pre/Post Ferguson Era</h2>
 
             <div style={{display:'flex', flexDirection:"row",flex:1}}>
                 <div style={{flex:1.5}}>

@@ -1,10 +1,14 @@
 import './App.css';
 import {PartOne} from "./containers/PartOne.jsx"
+import manutd from './data/manchester-united.png'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+
+        <img src={manutd} width={300} />
+
         <h3>
           Back to Glory - Manchester Utd
         </h3>
