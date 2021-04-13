@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import {PartOne} from "./containers/PartOne.jsx"
 
 function App() {
   return (
@@ -20,6 +20,8 @@ function App() {
           With this project, I intend to study how the team fared under each of the different managers in a story format.
         </p>
       </header>
+
+      <PartOne />
     </div>
   );
 }
