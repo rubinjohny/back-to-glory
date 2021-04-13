@@ -16,7 +16,7 @@ export const PartOne = props => {
 
             <div style={{display:'flex', flexDirection:"row",flex:1}}>
                 <div style={{flex:1.5}}>
-                    <span style={descriptionStyle}>Under the 18 years of leadership of coach Fergussen Manchester United achieved 11 championships and consistently held the top three positions always. Season 2013-2014 saw a sharp decline to the 7th position after the team was restructured under the leadership of Coach Moyes. It can also be understood that recovery to 2nd position was only achieved 5 years later.</span>
+                    <span style={descriptionStyle}>Under the 18 years of leadership of Ferguson, Manchester United achieved 11 championships and consistently held the top three positions. Season 2013-2014 saw a sharp decline to the 7th position after the team was restructured under the leadership of David Moyes. It can also be understood that recovery to 2nd position was only achieved 5 years later.</span>
                 </div>
                 <div style={{flex:2}}>
                     <LineChart 
@@ -30,7 +30,7 @@ export const PartOne = props => {
             </div>
             <div style={{display:'flex', flexDirection:"row",flex:1}}>
                 <div style={{flex:1.5}}>
-                    <span style={descriptionStyle}>Under the 18 years of leadership of coach Ferguson Manchester United held an average point of 83 points with the highest point at 91 and the lowest being 75. In the season of 2013-2014 we see yet another sharp decline to 64 making this the lowest point scored in the history of the team. It is noted that the team has not fully recovered from this decline with the highest Post-Ferguson point still at 81.</span>
+                    <span style={descriptionStyle}>During the leadership of Ferguson, Manchester United maintained an average of 83 points with the highest acheived point totaling 91 for the season 1999/2000 and the lowest point being 75. In the season of 2013-2014 we see yet another sharp decline to 64 making this the lowest point scored in the history of the team. It is noted that the team has not fully recovered from this decline with the highest Post Ferguson Era point still at 81.</span>
                 </div>
                 <div style={{flex:2}}>
                     <LineChart 

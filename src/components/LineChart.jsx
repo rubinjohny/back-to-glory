@@ -112,7 +112,7 @@ export const LineChart = props => {
             .text("Post Golden Era")
             .style("text-anchor", "start")
             .style("font-size", "14px")
-            .style("fill", "green")
+            .style("fill", "red")
         
     }, [])
     
